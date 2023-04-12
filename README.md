@@ -2,8 +2,8 @@
 
 <div >
   <a href="https://github.com/FilipeAsafe"a/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FilipeAsafe&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAsafe&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeAsafe&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAsafe&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 ## Codar é um modo de pensar
