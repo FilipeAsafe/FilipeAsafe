@@ -31,7 +31,6 @@
     <a href = "https://instagram.com/lipeasafee?igshid=YmMyMTA2M2Y=">
       <img width="100" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-
 </div>
 <br>
 ![Snake animation](https://github.com/FilipeAsafe/FilipeAsafe/blob/output/github-contribution-grid-snake.svg)
