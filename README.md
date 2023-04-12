@@ -19,17 +19,17 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-   <a href = "mailto: filipeasafe.a.matos@gmail.com">
-      <img width="200" height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href = "mailto: filipeasafe.a.matos@gmail.com">
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/filipe-asafe-abreu-matos-087350216/">
-      <img width="200" height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/lipsrx">
-      <img width="200" height="50" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      <img width="35" src="youtube.svg">
     </a>
     <a href = "https://instagram.com/lipeasafee?igshid=YmMyMTA2M2Y=">
-      <img width="200" height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img width="25" src="instagram.png">
     </a>
 </div>
   
